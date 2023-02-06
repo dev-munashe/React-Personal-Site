@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dev-munashe-my-react-portfolio/static/css/main.2c59eb20.css",
+    "main.js": "/dev-munashe-my-react-portfolio/static/js/main.bd413e50.js",
+    "static/media/cv.pdf": "/dev-munashe-my-react-portfolio/static/media/cv.2d941a34d3618edb25cc.pdf",
+    "static/media/nom.png": "/dev-munashe-my-react-portfolio/static/media/nom.c4a64bd1469e88716edc.png",
+    "static/media/avatar3.png": "/dev-munashe-my-react-portfolio/static/media/avatar3.01f464e61710993583d1.png",
+    "static/media/portfolio3.jpg": "/dev-munashe-my-react-portfolio/static/media/portfolio3.07439120de28a8e865bf.jpg",
+    "static/media/avatar2.jpg": "/dev-munashe-my-react-portfolio/static/media/avatar2.90e5fd705c7badd9d4fa.jpg",
+    "static/media/shawty.jpg": "/dev-munashe-my-react-portfolio/static/media/shawty.b3bc3fc37d1351dd14e0.jpg",
+    "static/media/avatar1.webp": "/dev-munashe-my-react-portfolio/static/media/avatar1.bb226fb32424d32b9491.webp",
+    "static/media/portfolio6.jpg": "/dev-munashe-my-react-portfolio/static/media/portfolio6.19150e901704494ceb91.jpg",
+    "static/media/portfolio5.jpg": "/dev-munashe-my-react-portfolio/static/media/portfolio5.5564c1f0f1c929c27b9c.jpg",
+    "static/media/portfolio1.avif": "/dev-munashe-my-react-portfolio/static/media/portfolio1.f06e10fa2e65c99d2762.avif",
+    "static/media/portfolio2.webp": "/dev-munashe-my-react-portfolio/static/media/portfolio2.192d3b966a9e49827325.webp",
+    "static/media/portfolio4.avif": "/dev-munashe-my-react-portfolio/static/media/portfolio4.c4bf1e883010e8e329dc.avif",
+    "static/media/avatar4.avif": "/dev-munashe-my-react-portfolio/static/media/avatar4.15a28b5e25da14a1e9c2.avif",
+    "index.html": "/dev-munashe-my-react-portfolio/index.html",
+    "main.2c59eb20.css.map": "/dev-munashe-my-react-portfolio/static/css/main.2c59eb20.css.map",
+    "main.bd413e50.js.map": "/dev-munashe-my-react-portfolio/static/js/main.bd413e50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c59eb20.css",
+    "static/js/main.bd413e50.js"
+  ]
+}
