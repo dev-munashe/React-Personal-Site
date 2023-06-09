@@ -13,14 +13,14 @@
     place-items: center;
 }
 
-.about__me-mage {
+.about__me-image {
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
 }
 
-.about__me-mage:hover {
+.about__me-image:hover {
     transform: rotate(0);
 }
 
