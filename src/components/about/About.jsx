@@ -39,9 +39,11 @@ const About = () => {
               <small>15+ Completed</small>
             </article>
           </div>
-          <p>Hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
-               As a freelance programmer, created SAS datasets of clinical data and developed macro programs to improve 
-               efficiency and quality of data management for Takeda Pharmaceuticals.
+          <p>I am a self-taught developer and passionate problem solver. 
+            As a dedicated and hardworking woman, I have successfully built numerous projects, including full-stack 
+            websites. Programming is not just a profession for me; it's a true 
+            passion. I am constantly seeking opportunities to challenge myself, grow, and expand my knowledge. With a thirst for continuous learning, I am excited to embark on new endeavors 
+            and create innovative solutions every day.
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let`s Talk</a>
